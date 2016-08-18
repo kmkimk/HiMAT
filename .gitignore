@@ -1,0 +1,8 @@
+﻿*.sln
+*.suo
+*.config
+*.xlsx
+HiMAT/*
+*.sln
+*.md~
+*.html~
