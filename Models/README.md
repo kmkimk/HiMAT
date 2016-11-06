@@ -1,3 +1,6 @@
-# High Mountain Asia Team (HiMAT) 
+# HiMAT Models
 
-This repository contains reference information for HiMAT (wiki and website).
+This folder contains metadata on models being employed for the HiMAT effort:
+
+* [GFDL GCM](https://github.com/aaarendt/HiMAT/tree/master/Models/GFDL)
+* [SWE Reanalysis](https://github.com/aaarendt/HiMAT/tree/master/Models/SWE_reanalysis)
