@@ -2,6 +2,7 @@
 
 ## Model information
 
+|:-----|:-----|
 |MODEL|GFDL GCM|
 |POINT OF CONTACT|sarah.kapnick@noaa.gov|
 |TIME SPAN|1980-2100|
