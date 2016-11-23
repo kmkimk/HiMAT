@@ -15,7 +15,7 @@
 ## Model Variables
 
 |Variable Name|Description|Units|Dimensions|
-|:-----|:-----:|:------:|:------:|
+|:-----|:-----|:------|:------|
 |LU_INDEX|LAND USE CATEGORY| |XY |
 |ZS|DEPTHS OF CENTERS OF SOIL LAYERS|m|Z  |
 |DZS|THICKNESSES OF SOIL LAYERS|m|Z  |
