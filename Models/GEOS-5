@@ -1,0 +1,11 @@
+# GEOS-5 GCM
+ 
++## Model information
++
++|MODEL|GEOS-5 GCM|
++|POINT OF CONTACT|kyu-myong.kim@nasa.gov|
++|TIME SPAN|Oct2007-Oct2008|
++|SPATIAL RESOLUTION|a half degree global|
++|CALIBRATION DATA / BOUNDARY CONDITIONS|prescribed SST, with and without aerosol radiative feedback;|
++
++## Model Variables
